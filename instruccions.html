@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<meta charset=UTF-8>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Luna Lander</title>
+		<meta name="Description" content="Página web oficial del juego Luna Lander">	
+		<link rel='stylesheet' media='screen and (min-width: 720px)' href='css/instruccionesresponsive.css'>
+		<link rel='stylesheet' media='screen and (max-width: 720px)' href='css/instruccionesvertical.css'>
+
+	</head>
+
+	<body>
+		<div id="izquierda">
+			<div id=fuel> 
+				Fuel
+				<div id=barra></div>
+			</div>
+			<div id=divAltura> 
+				<div id=altura>
+					<img id=indicador src="img/indicador.png" alt="Indicador">
+				</div>
+			</div>
+			<div id=divVelocidad> 
+				<img id=aguja src="img/aguja.png" alt="Aguja">
+			</div>
+		</div>
+		<div id="nave"> <img src="img/nave.png" alt="img nave"> </div>
+		<div id="fuego"> <img src="img/fuego.gif" alt="img fuego"> </div>
+		<div id="derecha">
+			<div id="botones">
+				<a href="instruccions.html"><img id="info" src="img/infobutton.png" alt="Información"></a>
+				<img id="ajustes" src="img/settingsbutton.png" alt="Ajustes">
+				<a href="lunalander.html"><img id="pause" src="img/pause.png" alt="Pausar"></a>
+				<a href="lunalander.html"><img id="play" src="img/playbutton.png" alt="Play"></a>
+			</div>
+			<div id="divReiniciar">
+				<a href="lunalander.html"><img id=reiniciar src="img/tryagain.png" alt="Reiniciar"></a>
+			</div>
+			<div id=divMotor>
+				<img id=motor src="img/button1.png" alt="Botón motor">
+			</div>
+		</div>
+		<div id="divluna">
+			<img src="img/luna.png" alt="Luna" id=luna>
+		</div>
+		<div id="dropdown">
+			<button id="dropbtn">Menú</button>
+			<div id="dropdown-content">
+				<a href="lunalander.html"><img id=pausaDesplegable src="img/pause.png" alt="Pausar"></a>
+				<a href="lunalander.html"><img id=playDesplegable src="img/playbutton.png" alt="Play"></a>
+				<img class=botonDesplegable src="img/settingsbutton.png" alt="Ajustes">
+				
+				<a href="instruccions.html">
+					<img class=botonDesplegable src="img/infobutton.png" alt="Información">
+				</a>
+			</div>
+		</div>
+		<div id=contenedorMenus>
+			<div id="menu">
+				<p>
+					Cambiar dificultad del juego
+					<br>
+					<br>
+					<button id="dificultad">Fácil</button>
+					<br>
+					<br>
+					<br>
+				</p>
+				<img id="cerrar" src="img/cerrar.png" alt="Cerrar">
+			</div>
+			<div id="informacion">
+				<h3>INSTRUCCIONES</h3>
+				<p>
+					El juego consiste en frenar la caída de la nave mediante el uso del motor, utiliza el boton para activar el motor y conseguir aterrizar adecuadamente sobre la superficie lunar.
+					<br>
+					<br>
+					Si el jugador no frena lo suficientemente la caída de la nave ,a una velocidad inferior a los 5 m/s, esta se estrellará y el jugador perderá la partida.
+					<br>
+					<br>
+					Además hay que tener en cuenta que la nave cuenta con un medidor de gasolina que se acabará si el jugador abusa del uso del motor de la nave.
+				</p>	
+				<a href="instruccions.html">
+					<button id="acerca">Acerca de...</button>
+				</a>
+				<img id="cerrar" src="img/cerrar.png" alt="Cerrar">
+			</div>
+		</div>
+	</body>
+</html>
