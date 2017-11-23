@@ -206,7 +206,7 @@ body{
 	border-style:outset; 
 	font-size:24px;
 }
-#cerrar{
+.cerrar{
 	position:absolute;
 	bottom:3%;
 	right:3%;
@@ -232,5 +232,5 @@ body{
 #pause{display: none;}
 #info{	display: none;}
 #ajustes{	display: none;}
-#cerrar:active {border-style: inset; border-color:purple;background-color:#8b26caf5}
-#cerrar:hover {transform: scale(1.2);}
+.cerrar:active {border-style: inset; border-color:purple;background-color:#8b26caf5}
+.cerrar:hover {transform: scale(1.2);}
