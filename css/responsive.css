@@ -219,16 +219,16 @@ body{
 }
 #informacion{display:none;}
 
-#info:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+#info:active {border-style: inset; border-color:purple; background-color:#821a1a;}
 #info:hover {transform: scale(1.2);}
-#play:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+#play:active {border-style: inset; border-color:purple; background-color:#8b26caf5;}
 #play:hover {transform: scale(1.2);}
-#pause:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+#pause:active {border-style: inset; border-color:purple; background-color:#8b26caf5;}
 #pause:hover {transform: scale(1.2);}
-#ajustes:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+#ajustes:active {border-style: inset; border-color:purple; background-color:#8b26caf5;}
 #ajustes:hover {transform: scale(1.2);}
-#reiniciar:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+#reiniciar:active {border-style: inset; border-color:purple; background-color:#8b26caf5;}
 #reiniciar:hover {transform: scale(1.2);}
 #motor:active {transform: scale(1.2)}
-.cerrar:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+.cerrar:active {border-style: inset; border-color:purple; background-color:#8b26caf5;}
 .cerrar:hover {transform: scale(1.2);}
