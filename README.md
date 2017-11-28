@@ -32,7 +32,7 @@ Siguiendo la estructura del html:
   
     >Contenedor de la derecha: Este contenedor està fijado a la parte derecha con un tamaño porcentual a la pantalla, y dentro hay los       tres contenedores colocados con posición absoluta y un tamaño porcentual respecto al anterior. Los botones ocupan un valor               porcentual a la altura del div y están colocado con un display. inline-block i float right. El botón de play estará sin visibilidad     mientras el de pausa esté y viceversa. Las imagenes de reiniciar y botón de motor simplemente están posicionadas con un float right     y dimensionadas porcentualmente. Además, para añadir efectos al pulsar, se cambia de tamaño al pasar por encima con hover y scale, y     con active le damos un color de fondo para destacar cuando pulsamos. 
     
-    >El contenedor de la izquierda: Este contenedos es parecido al anteior. El contenedor de fuel contiene otro contenedor dentro que         simula una barra. El contenedor de altura y velocidad contienen un fondo que no se repiten y una imagen posicionada adecuadamente       dentro que seria el indicador. Por otra parte, he añadido unas dimensiones mínimas al contenedor para que la imagen de fondo no se       corte.
+    >El contenedor de la izquierda: Este contenedor es parecido al anteior. El contenedor de fuel contiene otro contenedor dentro que         simula una barra. El contenedor de altura y velocidad contienen un fondo que no se repiten y una imagen posicionada adecuadamente       dentro que seria el indicador. Por otra parte, he añadido unas dimensiones mínimas al contenedor para que la imagen de fondo no se       corte.
     
     >Los contenedores para la nave simplemente están centrados respecto al body y estan dimensionados porcentualmente.
     
@@ -47,17 +47,14 @@ Siguiendo la estructura del html:
     
 Siguiendo la estructura del html:
   
-    -Contenedor de la derecha: Este contenedor està fijado a la parte derecha con un tamaño porcentual a la pantalla, y dentro hay los       tres contenedores colocados con posición absoluta y un tamaño porcentual respecto al anterior. Los botones ocupan un valor               porcentual a la altura del div y están colocado con un display. inline-block i float right. El botón de play estará sin visibilidad     mientras el de pausa esté y viceversa. Las imagenes de reiniciar y botón de motor simplemente están posicionadas con un float right     y dimensionadas porcentualmente. Además, para añadir efectos al pulsar, se cambia de tamaño al pasar por encima con hover y scale, y     con active le damos un color de fondo para destacar cuando pulsamos. 
+    -Contenedor de la derecha: Este contenedor no existe en el vertical, por lo tanto no está visible.
     
-    -El contenedor de la izquierda: Este contenedos es parecido al anteior. El contenedor de fuel contiene otro contenedor dentro que       simula una barra. El contenedor de altura y velocidad contienen un fondo que no se repiten y una imagen posicionada adecuadamente       dentro que seria el indicador. Por otra parte, he añadido unas dimensiones mínimas al contenedor para que la imagen de fondo no se       corte.
+    -El contenedor de la izquierda: Este contenedor es igual que en el horizontal. Su única diferencia es a la hora de dimensionar las       imagenes que hay dentro, puesto que he considerado que era mejor dejar su tamaño fijo.
     
-    -Los contenedores para la nave simplemente están centrados respecto al body y estan dimensionados porcentualmente.
+    -Los contenedores para la nave, para la luna y para los menús son iguales.
     
-    -El contenedor inferior: Éste simplemente está posicionado en la parte inferior y centra la imagen que hay en su interior, la luna.     Además, se dimensiona adecuadamente. 
-    
-    -El contenedor de menús ocupa toda la pantalla y es transparente, además su z-index debe ser superior al resto para evitar la           interacción con los botones. Cuando no haya ningún meno su visibilidad es none. 
-    
-    -En el horizontal no hay dropdown, así que no está visible.
+    -El contenedor dropdown va a contener un fondon que sea una imagen y estará posicionada y dimensionada adecuadamanete. Cuando se  
+    pase por encima del botón se desplegara un contenedor que contiene los botones dimensionados y con un margen. Además, estos botones     al igual que en el horizontal se harán más grandes al pasar por encima y cambiarán el color de fondo al activarse.
     
     
     
