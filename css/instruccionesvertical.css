@@ -235,11 +235,11 @@ body{
 	font-size:12px;
 }
 #acerca{
-	display:inline-block;
-	padding: 15px 32px;
-	font-size:20px;
-	text-align:center;
-	cursor:pointer;
+	background-color: #e8dbde;
+	border-style: outset;
+	border-color: #898e8b;
+	font-size: 20px;
+	padding: 8px;	
 }
 #reiniciar:active {border-style: inset; border-color:purple;background-color:#8b26caf5}
 #reiniciar:hover {transform: scale(1.2);}

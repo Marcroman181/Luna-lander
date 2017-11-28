@@ -65,7 +65,7 @@ body{
 }
 #luna{
 	height: 100%;
-
+	max-width:575px;
 }
 #divReiniciar{
 	position:absolute;
@@ -224,6 +224,7 @@ body{
 	left:15%;
 	top:3%;
 	width:70%;
+	min-height: 250px;
 	padding:20px;
 	background-color: #d4a7cc;
 	text-align: left;
@@ -231,11 +232,11 @@ body{
 	font-size:16px;
 }
 #acerca{
-	display:inline-block;
-	padding: 15px 32px;
-	font-size:20px;
-	text-align:center;
-	cursor:pointer;
+	background-color: #e8dbde;
+	border-style: outset;
+	border-color: #898e8b;
+	font-size: 20px;
+	padding: 8px;
 }
 
 #info:active {border-style: inset; border-color:purple;background-color:#8b26caf5}

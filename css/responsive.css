@@ -65,7 +65,7 @@ body{
 }
 #luna{
 	height: 100%;
-
+	max-width:575px;
 }
 #divReiniciar{
 	position:absolute;
