@@ -242,7 +242,7 @@ body{
 	padding: 8px;	
 }
 #acerca:active{border-style: inset; border-color: #c3c2c2;}
-#reiniciar:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+#reiniciar:active {border-style: inset; border-color:purple;background-color:#9C27B0;}
 #reiniciar:hover {transform: scale(1.2);}
 .botonDesplegable:active {transform: scale(1.1);}
 #pausaDesplegable:active{transform: scale(1.1);}
@@ -253,6 +253,6 @@ body{
 #pause{display: none;}
 #info{	display: none;}
 #ajustes{	display: none;}
-.cerrar:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
+.cerrar:active {border-style: inset; border-color:purple;background-color:#9C27B0;}
 .cerrar:hover {transform: scale(1.2);}
 
