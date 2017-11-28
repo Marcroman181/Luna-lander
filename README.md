@@ -5,6 +5,8 @@
 
 [Link del rawgit de la pàgina d'instruccions](https://rawgit.com/Marcroman181/Luna-lander/master/instruccions.html)
 
+**Este repositorio contiene una branch con todo el codigo minimificado**
+
 ### Documentació
 
 **HTML:**
