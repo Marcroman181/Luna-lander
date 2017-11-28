@@ -149,7 +149,7 @@ body{
 	background-image: url("../img/dropdown.png");
 	background-position:center;
 	background-size: 80px 80px;
-	background-repeat: no repeat;
+	background-repeat: no-repeat;
 	position:absolute;right:3px;top:3px;
     	cursor: pointer;
 	width:80px;
@@ -241,7 +241,7 @@ body{
 	font-size: 20px;
 	padding: 8px;	
 }
-#reiniciar:active {border-style: inset; border-color:purple;background-color:#8b26caf5}
+#reiniciar:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
 #reiniciar:hover {transform: scale(1.2);}
 .botonDesplegable:active {transform: scale(1.1);}
 #pausaDesplegable:active{transform: scale(1.1);}
@@ -252,6 +252,6 @@ body{
 #pause{display: none;}
 #info{	display: none;}
 #ajustes{	display: none;}
-.cerrar:active {border-style: inset; border-color:purple;background-color:#8b26caf5}
+.cerrar:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
 .cerrar:hover {transform: scale(1.2);}
 
