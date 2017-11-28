@@ -126,8 +126,8 @@ body{
 	position: absolute;
 	top:0px;
 	left:5px;
-    height:100px;
-    width:60px;
+    	height:100px;
+    	width:60px;
  	border-style: outset;
 	border-color: black;
 	text-align:center;
@@ -151,40 +151,40 @@ body{
 	background-size: 80px 80px;
 	background-repeat: no repeat;
 	position:absolute;right:3px;top:3px;
-    cursor: pointer;
+    	cursor: pointer;
 	width:80px;
 	height:80px;
 	font-size: 14px;
-    border: none;
+   	 border: none;
 }
 #dropdown-content {
 	display: none;
-    position: relative;
-    background-color: #d4a7cc;
-    min-width: 100%;
-    z-index: 1;
+	position: relative;
+	background-color: #d4a7cc;
+	min-width: 100%;
+	z-index: 1;
 }
 
 .botonDesplegable{
 	display: block;
-    padding: 5px 5px;
-    width: 90%;
+	padding: 5px 5px;
+	width: 90%;
 	cursor:pointer;
 }
 #pausaDesplegable{
 	display: block;
 	padding: 5px 5px;
-    width: 90%;
+        width: 90%;
 	cursor:pointer;
 }
 #playDesplegable{
 	display: none;
 	padding: 5px 5px;
-    width: 90%;
+        width: 90%;
 	cursor:pointer;
 }
 #dropdown:hover #dropdown-content {
-    display: block;
+        display: block;
 }
 #contenedorMenus{
 	display:inline-block;
