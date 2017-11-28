@@ -149,7 +149,7 @@ body{
 	background-image: url("../img/dropdown.png");
 	background-position:center;
 	background-size: 80px 80px;
-	background-repeat: no repeat;
+	background-repeat: no-repeat;
 	position:absolute;right:3px;top:3px;
         cursor: pointer;
 	width:80px;
