@@ -238,7 +238,7 @@ body{
 	font-size: 20px;
 	padding: 8px;
 }
-
+#acerca:active{border-style: inset; border-color: #c3c2c2;}
 #info:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
 #info:hover {transform: scale(1.2);}
 #play:active {border-style: inset; border-color:purple;background-color:#8b26caf5;}
