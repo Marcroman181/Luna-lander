@@ -1,6 +1,8 @@
 # Luna-lander
 ## Práctica html y css del luna lander
 
+**Autor: Marc Antoni Román Martínez**
+
 [Link del rawgit del luna lander](https://rawgit.com/Marcroman181/Luna-lander/master/lunalander.html)
 
 [Link del rawgit de la página de instrucciones](https://rawgit.com/Marcroman181/Luna-lander/master/instruccions.html)
