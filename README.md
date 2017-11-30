@@ -1,5 +1,5 @@
 # Luna-lander
-## Pràctica html i css del luna lander
+## Práctica html y css del luna lander
 
 [Link del rawgit del luna lander](https://rawgit.com/Marcroman181/Luna-lander/master/lunalander.html)
 
@@ -7,7 +7,7 @@
 
 **Este repositorio contiene una branch con todo el codigo minimificado**
 
-### Documentació
+### Documentación
 
 **Cambios realizados respecto al proyecto inicial:**
 
