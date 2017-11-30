@@ -12,6 +12,7 @@
 **Cambios realizados respecto al proyecto inicial:**
 
  -He cambiado el indicador de fuel puesto que este era un GIF y no era posible implementarlo. Por lo tanto el indicador de fuel lo he     realizado con 2 divs.
+ 
  -He cambiado el menú, puesto que este estaba compuesto por imagenes. Entonces, el menú esta hecho mediante un div. 
 
 **HTML:**
