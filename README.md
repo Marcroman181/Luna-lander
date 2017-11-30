@@ -3,7 +3,7 @@
 
 [Link del rawgit del luna lander minified](https://rawgit.com/Marcroman181/Luna-lander/minimified/lunalander.html)
 
-[Link del rawgit de la pàgina d'instruccions minified](https://rawgit.com/Marcroman181/Luna-lander/minimified/instruccions.html)
+[Link del rawgit de la página de instrucciones minified](https://rawgit.com/Marcroman181/Luna-lander/minimified/instruccions.html)
 
 ### Documentación
 
