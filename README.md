@@ -3,7 +3,7 @@
 
 [Link del rawgit del luna lander](https://rawgit.com/Marcroman181/Luna-lander/master/lunalander.html)
 
-[Link del rawgit de la pàgina d'instruccions](https://rawgit.com/Marcroman181/Luna-lander/master/instruccions.html)
+[Link del rawgit de la página de instrucciones](https://rawgit.com/Marcroman181/Luna-lander/master/instruccions.html)
 
 **Este repositorio contiene una branch con todo el codigo minimificado**
 
