@@ -1,11 +1,11 @@
 # Luna-lander
-## Pràctica html i css del luna lander
+## Práctica html y css del luna lander
 
 [Link del rawgit del luna lander minified](https://rawgit.com/Marcroman181/Luna-lander/minimified/lunalander.html)
 
 [Link del rawgit de la pàgina d'instruccions minified](https://rawgit.com/Marcroman181/Luna-lander/minimified/instruccions.html)
 
-### Documentació
+### Documentación
 
 **Cambios realizados respecto al proyecto inicial:**
 
